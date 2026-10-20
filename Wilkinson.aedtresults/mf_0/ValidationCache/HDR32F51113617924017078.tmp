@@ -1,0 +1,7 @@
+$begin 'ValidationCache'
+	$begin 'OneValidationResult'
+		Variation='$R_pos=\'26mm\''
+		Status=true
+		FileName='VI0A1F237217925189182.tmp'
+	$end 'OneValidationResult'
+$end 'ValidationCache'
